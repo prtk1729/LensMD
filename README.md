@@ -18,7 +18,7 @@ conda activate med
 pip install -r requirements.txt
 ```
 
-4. Verify if `src` as the local package
+4. Verify `src` as the local package
 ```bash
 streamlit run app.py
 ```
